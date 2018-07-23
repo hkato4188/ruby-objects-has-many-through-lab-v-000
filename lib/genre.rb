@@ -14,6 +14,10 @@ class Genre
     self.songs << song
   end
 
+  def artists
+    @songs.map {|song| song.artist}
+  end
+
 end 
 
 

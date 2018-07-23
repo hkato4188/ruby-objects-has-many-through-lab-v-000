@@ -1,3 +1,41 @@
+require 'pry'
+
+class Artist
+  
+    def initialize
+      
+    end
+end
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # class Artist
 #   attr_accessor :name
 

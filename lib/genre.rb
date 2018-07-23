@@ -10,7 +10,7 @@ class Genre
     @songs
   end
 
-  def self.add_song(song)
+  def add_song(song)
     self.songs << song
   end
 

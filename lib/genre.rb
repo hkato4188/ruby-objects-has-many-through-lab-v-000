@@ -9,6 +9,7 @@ class Genre
 
   def self.add_song(song)
     self.songs << song
+  end
 
 end 
 
